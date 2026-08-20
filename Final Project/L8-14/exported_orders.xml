@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<orders><order id="1"><customer>Filip</customer><product>Laptop</product><quantity>1</quantity><status>new</status></order><order id="2"><customer>Anna</customer><product>Phone</product><quantity>2</quantity><status>processing</status></order></orders>

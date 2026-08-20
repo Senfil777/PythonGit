@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "customer": "Filip",
+        "product": "Laptop",
+        "quantity": 1,
+        "status": "new"
+    },
+    {
+        "id": 2,
+        "customer": "Anna",
+        "product": "Phone",
+        "quantity": 2,
+        "status": "processing"
+    }
+]
